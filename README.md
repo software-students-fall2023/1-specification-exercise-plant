@@ -46,4 +46,4 @@ We curated 11 user stories:
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Here is our link to a clickable Prototype / Wireframes]([https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1](https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1)https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1)
