@@ -49,6 +49,6 @@ Diagram 1 fulfills user story #1: As someone who has trouble falling asleep, I w
 Diagram 2 fulfills user story #6: As a cat owner, I want to be able to easily share videos and sound clips of my own cat on the app to connect with other cat lovers and share the joy of pet ownership.
 ![Activity Diagram](https://i.imgur.com/LGkOXgI.jpg)
 
-## Clickable Prototype
+## Wireframe/Clickable Prototype
 
 [Here is our link to a clickable Prototype / Wireframes](https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1)
