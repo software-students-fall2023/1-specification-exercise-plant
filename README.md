@@ -51,4 +51,6 @@ Diagram 2 fulfills user story #6: As a cat owner, I want to be able to easily sh
 
 ## Wireframe/Clickable Prototype
 
-[Here is our link to a clickable Prototype / Wireframes](https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1)
+[Here is our link to our wireframes](https://www.figma.com/file/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=0%3A1&mode=design&t=JMiC3DuzmVh8cWun-1)
+
+[Here is our link to our clickable prototype](https://www.figma.com/proto/3jpmH5VGE7yXVa2PM37IrJ/SWE-Plants-Wireframes-%26-Prototype?type=design&node-id=1-2&t=PSE6TkCmJQkFDHWj-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
