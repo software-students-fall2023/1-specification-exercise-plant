@@ -3,15 +3,17 @@ Cat Media ASMR to relax/study/chill to
 
 ## Team members
 1. [Charles Hu](https://github.com/comeom)
-2. [Nathalia Xu](https://github.com/slurp-slurp/)
+2. [Nathalia Xu](https://github.com/slurp-slurp)
 3. [Bobby Impastato](https://github.com/bobbyimpastato)
 4. [Alicia Hwang](https://github.com/a-j-hwang)
 
 
 ## Stakeholders
-We interviewed 4 stakeholders. They mentioned four main goals and problems they would like our app to address.
+We interviewed 4 stakeholders. They are all target end-users of our app, who are cat lovers and/or feel stressed or anxious from work, study, or life in general. We interviewed people who are between the ages 20 to 30, busy with work and school, located in and outside of the US, and of different genders. Three of them are cat owners who have an emotional attachment to cats. All of them experience stress and/or anxiety in life and have experience using other relaxation apps. 
+
+They mentioned four main goals and problems they would like our app to address.
 Goals:
-1. Provide different soothing sounds of cats to calm the user’s mind
+1. Provide different soothing sounds of cats to calm the user's mind
 2. Provide a platform for cat owners to share videos/sound clips
 3. Hear your own cat (dead or alive) to feel better
 4. Fall asleep
