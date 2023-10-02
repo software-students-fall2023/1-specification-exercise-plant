@@ -34,7 +34,7 @@ We curated 11 user stories:
 2. As a grieving pet owner, I want the app to allow me to listen to recordings of my own cat's sounds or see their videos so that I can feel a sense of connection and comfort.
 3. As a cat owner who frequently travels for work, I want the app to have a feature that allows me to hear my cat's sounds or watch videos of them to ease my homesickness while I'm away.
 4. As a cat lover, I want a selection of authentic cat purring sounds so that I can feel comforted and relaxed.
-5. As someone who doesn’t have a cat but still enjoys cat-related content, I want the app to offer a diverse range of cat sounds and videos to cater to different preferences and provide a calming experience.
+5. As someone who doesn't have a cat but still enjoys cat-related content, I want the app to offer a diverse range of cat sounds and videos to cater to different preferences and provide a calming experience.
 6. As a cat owner, I want to be able to easily share videos and sound clips of my own cat on the app to connect with other cat lovers and share the joy of pet ownership.
 7. As a stressed-out student, I want to play the sound in the background so I can listen to it and fall asleep.
 8. As a user with hearing impairment, I want visualizations of the cat sounds (like animated cat visuals) so that I can still experience the calming effects.
@@ -44,6 +44,9 @@ We curated 11 user stories:
 
 
 ## Activity Diagrams
+Diagram 1 fulfills user story #1: As someone who has trouble falling asleep, I want the app to have a feature that provides continuous soothing cat sounds (with an automatic shutoff) to help me drift off to sleep peacefully.
+
+Diagram 2 fulfills user story #6: As a cat owner, I want to be able to easily share videos and sound clips of my own cat on the app to connect with other cat lovers and share the joy of pet ownership.
 ![Activity Diagram](https://i.imgur.com/LGkOXgI.jpg)
 
 ## Clickable Prototype
